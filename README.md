@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hola, soy Xavier Casilla 👋
+# ¡Hola! Soy Xavier Casilla 👋
 
-### Desarrollador de Software · Principios SOLID · Patrones de Diseño
+### Desarrollador de Software Backend · .NET / C# · Java · TypeScript
+
+> *"Construyo software que resuelve problemas reales — limpio, escalable y mantenible."*
 
 [![GitHub followers](https://img.shields.io/github/followers/Xavi1324?style=social)](https://github.com/Xavi1324)
 [![Profile views](https://komarev.com/ghpvc/?username=Xavi1324&color=0e75b6&style=flat)](https://github.com/Xavi1324)
@@ -13,11 +15,32 @@
 
 ## 🙋‍♂️ Sobre Mí
 
-- 🎓 Estudiante de Desarrollo de Software — enfocado en **Patrones de Diseño** y **Principios SOLID**
-- 💻 Construyendo aplicaciones escalables y mantenibles con **.NET / C#** y **Java**
-- 🌱 Actualmente profundizando en **Programación Paralela** y **Sistemas de Agentes Especulativos**
-- 🤝 Abierto a colaborar en proyectos web o backend interesantes
-- ⚡ Dato curioso: disfruto convertir problemas complejos en código limpio y elegante
+Soy estudiante de Desarrollo de Software en mi etapa final, con experiencia práctica construyendo aplicaciones web reales para clientes. Me especializo en desarrollo backend con **.NET / C#** y en frontend moderno con **Next.js y React**. Aplico principios **SOLID**, **Patrones de Diseño** y arquitecturas limpias en cada proyecto.
+
+- 🎯 Enfocado en escribir código **limpio, mantenible y escalable**
+- 🚀 Experiencia desarrollando aplicaciones web completas de principio a fin
+- 🤝 Disponible para **prácticas profesionales** y oportunidades laborales
+- 🌱 Aprendiendo **Programación Paralela** y sistemas de agentes concurrentes
+- 🇩🇴 Basado en República Dominicana — abierto a trabajo remoto
+
+---
+
+## 💼 Experiencia & Proyectos Destacados
+
+**🏠 To Grabao** — Plataforma inmobiliaria real para cliente
+> Next.js · TypeScript · Strapi CMS · Tailwind CSS
+> Desarrollé frontend completo con listados dinámicos, rutas, y consumo de API REST
+
+**📈 AtlasScore** — Herramienta de scoring de inversión por país
+> C# · .NET · Indicadores macroeconómicos
+> Sistema de ranking dinámico usando análisis de datos económicos reales
+
+**🗺️ GPS Sales Map** — App de gestión de ventas con mapa GPS
+> React · Supabase · Leaflet.js · OpenStreetMap
+> Co-desarrollé app para cliente con geolocalización en tiempo real
+
+**💰 FinanceApp** — Dashboard de finanzas personales
+> C# · .NET · Arquitectura MVC
 
 ---
 
@@ -48,9 +71,9 @@
 
 <div align="center">
 
+<img src="https://github-readme-stats-qh8s5eqnn-xavi1324s-projects.vercel.app/api?username=Xavi1324&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es&v=3" alt="Estadísticas de GitHub" />
 
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Xavi1324&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+<img src="https://github-readme-stats-qh8s5eqnn-xavi1324s-projects.vercel.app/api/top-langs/?username=Xavi1324&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=3" alt="Lenguajes más usados" />
 
 <img src="https://streak-stats.demolab.com/?user=Xavi1324&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Streak" />
 
@@ -70,5 +93,5 @@
 ---
 
 <div align="center">
-<sub>💡 "El código limpio no se escribe siguiendo un conjunto de reglas. Lo escribe alguien que se preocupa."</sub>
+<sub>💡 "El código limpio no se escribe siguiendo un conjunto de reglas. Lo escribe alguien que se preocupa." — Robert C. Martin</sub>
 </div>

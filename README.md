@@ -44,16 +44,6 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Xavi1324&theme=tokyonight&hide_border=true&locale=es)
-
-</div>
-
----
-
 ## 📫 Contáctame
 
 <div align="center">

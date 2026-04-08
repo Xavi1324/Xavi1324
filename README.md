@@ -50,7 +50,7 @@
 
 <img src="https://github-readme-stats-qh8s5eqnn-xavi1324s-projects.vercel.app/api?username=Xavi1324&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es&v=3" alt="Estadísticas de GitHub" />
 
-<img src="https://github-readme-stats-qh8s5eqnn-xavi1324s-projects.vercel.app/api/top-langs/?username=Xavi1324&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=3" alt="Lenguajes más usados" />
+<img src="https://github-readme-stats-qh8s5eqnn-xavi1324s-projects.vercel.app/api/top-langs/?username=Xavi1324&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 
 <img src="https://streak-stats.demolab.com/?user=Xavi1324&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Streak" />
 

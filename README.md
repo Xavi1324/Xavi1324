@@ -44,6 +44,18 @@
 
 ---
 
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Xavi1324&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub de Xavi1324" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xavi1324&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" />
+
+</div>
+
+---
+
 ## 📫 Contáctame
 
 <div align="center">

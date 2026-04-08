@@ -14,7 +14,7 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 Software Development Student — focused on **Design Patterns** & **SOLID Principles**
-- 💻 Building scalable, maintainable applications with **.NET / C#** and **Next.js**
+- 💻 Building scalable, maintainable applications with **.NET / C#** and **Java**
 - 🌱 Currently diving deep into **Parallel Programming** and **Speculative Agent Systems**
 - 🤝 Open to collaborate on interesting web or backend projects
 - ⚡ Fun fact: I enjoy turning complex problems into clean, elegant code

@@ -14,7 +14,7 @@
 ## 🙋‍♂️ Sobre Mí
 
 - 🎓 Estudiante de Desarrollo de Software — enfocado en **Patrones de Diseño** y **Principios SOLID**
-- 💻 Construyendo aplicaciones escalables y mantenibles con **.NET / C#** y **Next.js**
+- 💻 Construyendo aplicaciones escalables y mantenibles con **.NET / C#** y **Java**
 - 🌱 Actualmente profundizando en **Programación Paralela** y **Sistemas de Agentes Especulativos**
 - 🤝 Abierto a colaborar en proyectos web o backend interesantes
 - ⚡ Dato curioso: disfruto convertir problemas complejos en código limpio y elegante
@@ -48,8 +48,6 @@
 
 <div align="center">
 
-![Estadísticas de Xavi1324](https://github-readme-stats.vercel.app/api?username=Xavi1324&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Xavi1324&theme=tokyonight&hide_border=true&locale=es)
 
 </div>
@@ -61,6 +59,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Xavi1324-181717?style=for-the-badge&logo=github)](https://github.com/Xavi1324)
+[![Instagram](https://img.shields.io/badge/Instagram-xavi__casilla-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xavi_casilla/)
 
 </div>
 

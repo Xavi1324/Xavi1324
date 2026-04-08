@@ -52,11 +52,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xavi1324&theme=tokyonight" alt="Resumen de Perfil" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xavi1324&theme=github_dark" alt="Resumen de Perfil" />
 
-<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Xavi1324&theme=tokyonight&bg_color=1a1b26&hide_border=true" alt="Gráfico de Actividad" />
 
 </div>
 

@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Xavier Casilla 👋
+# Hola, soy Xavier Casilla 👋
 
-### Software Developer · SOLID Principles · Design Patterns
+### Desarrollador de Software · Principios SOLID · Patrones de Diseño
 
 [![GitHub followers](https://img.shields.io/github/followers/Xavi1324?style=social)](https://github.com/Xavi1324)
 [![Profile views](https://komarev.com/ghpvc/?username=Xavi1324&color=0e75b6&style=flat)](https://github.com/Xavi1324)
@@ -11,31 +11,31 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ Sobre Mí
 
-- 🎓 Software Development Student — focused on **Design Patterns** & **SOLID Principles**
-- 💻 Building scalable, maintainable applications with **.NET / C#** and **Java**
-- 🌱 Currently diving deep into **Parallel Programming** and **Speculative Agent Systems**
-- 🤝 Open to collaborate on interesting web or backend projects
-- ⚡ Fun fact: I enjoy turning complex problems into clean, elegant code
+- 🎓 Estudiante de Desarrollo de Software — enfocado en **Patrones de Diseño** y **Principios SOLID**
+- 💻 Construyendo aplicaciones escalables y mantenibles con **.NET / C#** y **Next.js**
+- 🌱 Actualmente profundizando en **Programación Paralela** y **Sistemas de Agentes Especulativos**
+- 🤝 Abierto a colaborar en proyectos web o backend interesantes
+- ⚡ Dato curioso: disfruto convertir problemas complejos en código limpio y elegante
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológico
 
-**Languages**
+**Lenguajes**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Frameworks & Libraries**
+**Frameworks y Librerías**
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Tools & Platforms**
+**Herramientas y Plataformas**
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -44,30 +44,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
-![Xavi1324's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xavi1324&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Estadísticas de Xavi1324](https://github-readme-stats.vercel.app/api?username=Xavi1324&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Xavi1324&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Xavi1324&theme=tokyonight&hide_border=true&locale=es)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🏠 [To Grabao](https://github.com/Commit-Core/tograbao-frontend) | Real estate platform with dynamic listings | Next.js · TypeScript · Strapi |
-| 📈 [AtlasScore](https://github.com/Xavi1324/AtlasScore) | Country investment scoring via macroeconomic indicators | C# · .NET |
-| 🗺️ GPS Sales Map | Sales management app with GPS-mapped customers | React · Supabase · Leaflet.js |
-| 💰 [Finance App](https://github.com/Xavi1324/FinanceApp) | Personal finance dashboard | C# · .NET |
-
----
-
-## 📫 Connect with Me
+## 📫 Contáctame
 
 <div align="center">
 
@@ -78,5 +67,5 @@
 ---
 
 <div align="center">
-<sub>💡 "Clean code is not written by following a set of rules. It is written by someone who cares."</sub>
+<sub>💡 "El código limpio no se escribe siguiendo un conjunto de reglas. Lo escribe alguien que se preocupa."</sub>
 </div>

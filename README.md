@@ -52,6 +52,8 @@
 
 <img src="https://github-readme-stats-qh8s5eqnn-xavi1324s-projects.vercel.app/api/top-langs/?username=Xavi1324&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" />
 
+<img src="https://streak-stats.demolab.com/?user=Xavi1324&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Streak" />
+
 </div>
 
 ---
